@@ -46,10 +46,7 @@ h1 {
   -webkit-text-fill-color: transparent;
   background-clip: 0;
 }
-body {
-  background: url("High_resolution_wallpaper_background_ID_77700321671.jpg");
-  background-size: cover;
-}
+
 legend {
   color: #5acbfc;
 }
@@ -127,6 +124,6 @@ h4 {
 #button {
   background-image: linear-gradient(to right, rgb(0, 255, 255), rgb(0, 0, 0));
 }
-
-
-
+body{
+  background-color: #111;
+}
